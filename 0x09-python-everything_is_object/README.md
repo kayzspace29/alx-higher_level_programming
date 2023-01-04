@@ -1,0 +1,1 @@
+how to print objectives
